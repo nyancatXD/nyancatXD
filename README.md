@@ -1,1 +1,1 @@
-<a href="https://ibb.co/sdyZqRpr"><img src="https://i.ibb.co/G4cqRpfj/my-image-2.png" alt="my-image-2" border="0" /></a>
+<a href="https://ibb.co/rRh4q1Nq"><img src="https://i.ibb.co/ksTQzWvz/2026-09-04-12n-Kleki.png" alt="2026-09-04-12n-Kleki" border="0" /></a>
