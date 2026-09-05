@@ -7,7 +7,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+condensed&letterSpacing=&pause=1000&color=8C2828&background=C8B96F15&center=true&width=453&lines=i+love+playing+gartic+phone!+;you+are+all+so+fun+to+play+with!+%5E_%5E" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+condensed&duration=600&pause=2000&color=8C2828&background=C8B96F15&center=true&width=453&lines=i+love+to+playing+gartic+phone!+;you+are+all+so+fun+to+play+with!+%5E_%5E" alt="Typing SVG" /></a>
 <br>
 <img src="https://i.ibb.co/gFX1kTtv/cat3.png" alt="cat3" border="0" />
 
