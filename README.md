@@ -19,6 +19,8 @@
 <a href="https://ibb.co/S75hP0yg"><img src="https://i.ibb.co/yBdwX5PC/2026-09-04-12o-Kleki-1.webp" alt="2026-09-04-12o-Kleki-1" border="0" /></a>
 <br>
 
+<img src="https://i.ibb.co/cc6gVw4C/13f07f2c85324a5bb7b8f2638eedfc47.gif" alt="13f07f2c85324a5bb7b8f2638eedfc47" border="0" />
+
 
 
 <img src="https://i.ibb.co/rKxvrZrj/jumprope.gif" alt="jumprope" border="0" />
